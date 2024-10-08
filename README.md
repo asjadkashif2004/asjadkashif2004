@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD ASJAD KASHIF</h1>
 <h3 align="center">GRAPHICS DESIGNER , PROGRAMMER , CS STUDENT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asjadkashif2004&label=Profile%20views&color=0e75b6&style=flat" alt="asjadkashif2004" /> </p>
-
 - 🔭 I’m currently working on **PROGRAMMING(c++,PYTHON)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm , Ai and Info security**
@@ -36,3 +34,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asjadkashif2004&show_icons=true&locale=en&layout=compact" alt="asjadkashif2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjadkashif2004&" alt="asjadkashif2004" /></p>
+
