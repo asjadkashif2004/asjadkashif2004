@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MUHAMMAD ASJAD KASHIF</h1>
 <h3 align="center">GRAPHICS DESIGNER , PROGRAMMER , CS STUDENT</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/06/40/10/22/1000_F_640102243_0DRXY0pIGk2mCJMZt2arrM3ZgD8H3wpr.jpg">
 - 🔭 I’m currently working on **PROGRAMMING(c++,PYTHON)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm , Ai and Info security**
