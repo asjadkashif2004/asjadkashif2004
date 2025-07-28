@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/26f9c8b7fadcba88f36850ef60d0fec83ea2a48807662d3ea9b010e4f05ef02e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm MUHAMMAD ASJAD KASHIF</h1>
-<h3 align="center">GRAPHICS DESIGNER , PROGRAMMER , CS STUDENT</h3>
+<h3 align="center">Full Stack Web and Mobile App developer , PROGRAMMER , CS STUDENT</h3>
 <img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/06/40/10/22/1000_F_640102243_0DRXY0pIGk2mCJMZt2arrM3ZgD8H3wpr.jpg">
 - 🔭 I’m currently working on **PROGRAMMING(c++,PYTHON)**
 
