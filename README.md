@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/26f9c8b7fadcba88f36850ef60d0fec83ea2a48807662d3ea9b010e4f05ef02e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)](https://github.com/asjadkashif2004)
 
 <h1 align="center">Hi 👋, I'm MUHAMMAD ASJAD KASHIF</h1>
 <h3 align="center">Full Stack Web & Mobile App Developer | PHP & Laravel Expert | CS Student at NUST</h3>
